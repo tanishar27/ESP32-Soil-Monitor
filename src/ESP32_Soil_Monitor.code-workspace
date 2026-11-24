@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_Soil_Monitor",
+			"path": ".."
+		},
+		{
+			"path": "../../smart-plant-dashboard"
+		}
+	],
+	"settings": {}
+}
